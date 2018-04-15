@@ -241,7 +241,7 @@
 #main {
     width: 100%;
     height: auto;
-    background-image: url(../../assets/img/back-m.jpg);
+    background-image: url(../../img/back-m.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -250,13 +250,13 @@
 
 @media (min-width:768px) {
     #main {
-        background-image: url(../../assets/img/back.jpg);
+        background-image: url(../../img/back.jpg);
         height: auto;
     }
 }
 
 .navbar-light .navbar-brand {
-    background-image: url(../../assets/img/Moviedb.png);
+    background-image: url(../../img/Moviedb.png);
     width: 165px;
     background-position: center;
     background-size: 80%;
@@ -303,18 +303,18 @@ body {
     background-color: #fff;
     width: 100%;
     height: 100vh;
-    background-image: url(../../assets/img/back-m.jpg);
+    background-image: url(../../img/back-m.jpg);
     color: #333
 }
 
 @media (min-width:768px) {
     body {
-        background-image: url(../../assets/img/back.jpg)
+        background-image: url(../../img/back.jpg)
     }
 }
 
 .imgposter {
-    background-image: url(../../assets/img/Movie-Poster-Template-Dark-with-Image.jpg);
+    background-image: url(../../img/Movie-Poster-Template-Dark-with-Image.jpg);
     width: 237px;
     height: 351px
 }
